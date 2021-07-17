@@ -1,7 +1,7 @@
 # Challenge 1 : Fire mapping - EY
 ## Ordronneau Luca - Reberga Louis - Moncoutie Johan - Ettarian Julian
 
-### Project Architechture :
+### Project Architecture :
 
 ```
 Challenge 1 : Fire mapping - Ordronneau - Reberga - Moncoutie - Ettarian
