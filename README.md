@@ -11,25 +11,20 @@ Challenge 1 : Fire mapping - Ordronneau - Reberga - Moncoutie - Ettarian
 │   challenge1-video-abstract.mp4   
 │
 └─── code
-│   │   data.ipynb
-│   │   InceptionResnetV2.ipynb
-|   |   test_model.ipynb
-│   │
-│   └─── submission
-│   |   │   InceptionResNetV2...ellipse.csv
-|   |
-|   └─── model
-|   │   │   InceptionResNetV2_413_semi_final.h5
-|   |
-|   └─── data
-|   │   │   X_Y_TRAIN_413_semi_final.npz
-|   │   │   X_TEST_413_semi_final.npy
-│   
-└─── resume
-    │   REBERGA-Louis-resume.pdf
-    │   ORDRONNEAU-Luca-resume.pdf
-    │   ETTARIAN-Julian-resume.pdf
-    │   MONCOUTIE-Johan-resume.pdf
+    │   data.ipynb
+    │   InceptionResnetV2.ipynb
+    |   test_model.ipynb
+    │
+    └─── submission
+    |   │   InceptionResNetV2...ellipse.csv
+    |
+    └─── model
+    │   │   InceptionResNetV2_413_semi_final.h5
+    |
+    └─── data
+    │   │   X_Y_TRAIN_413_semi_final.npz
+    │   │   X_TEST_413_semi_final.npy
+
 ```
 
 `code` : Folder with all code files as well as data, model...
@@ -53,5 +48,3 @@ Challenge 1 : Fire mapping - Ordronneau - Reberga - Moncoutie - Ettarian
     ```
 - `submission` : Folder for submission file
     - `InceptionResNetV2_413_semi_final_open_3_iter_1_close_16_iter_1_0_1_ellipse.csv` : CSV file example for submission
-
-`resume` : Folder with all participant's resumes
