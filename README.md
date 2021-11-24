@@ -1,5 +1,8 @@
 # Challenge 1 : Fire mapping - EY
 ## Ordronneau Luca - Reberga Louis - Moncoutie Johan - Ettarian Julian
+### Segmentation
+
+![alt text](git_image_readme.png)
 
 ### Project Architecture :
 
