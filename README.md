@@ -9,10 +9,10 @@
 ```
 Challenge 1 : Fire mapping - Ordronneau - Reberga - Moncoutie - Ettarian
 │   README.md
-│   challenge1-report.pdf (english)
-│   challenge1-presentation.pptx (english)  
+│   english-report.pdf (english)
+│   english-presentation-slides.pdf (english)  
 │   challenge1-video-abstract.mp4 (english)
-│   fiche_synthetique.pdf (french)
+│   french-slides.pdf (french)
 │
 └─── code
     │   data.ipynb
